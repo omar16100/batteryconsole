@@ -5,7 +5,7 @@ edition = "2021"
 description = "CLI tool to check Logitech MX device battery levels on macOS"
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/omarshab/batteryconsole"
+repository = "https://github.com/omar16100/batteryconsole"
 keywords = ["logitech", "battery", "bluetooth", "cli", "macos"]
 categories = ["command-line-utilities"]
 
