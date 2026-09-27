@@ -10,6 +10,7 @@
 - [x] Integration tests for CLI
 - [x] Release build
 - [x] Successfully reading battery levels from MX Keys and MX Master 3
+- [x] 27 Sep 2026: README fixes (clone URL, Homebrew install via omar16100/tap, removed unbacked claims), docs/index.md, docs/c4model.md, macOS CI (build + test). Plan: docs/27092026_readme_ci_plan.md
 
 ## How It Works
 - Default mode: Uses Swift/CoreBluetooth to query BLE Battery Service (0x180F)
