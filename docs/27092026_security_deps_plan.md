@@ -12,7 +12,7 @@ In review on branch `chore/security-deps-27092026`.
 - [ ] CI green on the PR and on `main` after merge; open alerts re-queried.
 
 ## Decisions
-- Dependabot PR #1 was opened before CI existed on `main`, so it has no CI result. This PR carries the same lockfile change plus docs, and #1 is closed as superseded.
+- Dependabot PR #1 was opened before CI existed on `main`, so it has no CI result. This PR carries the same lockfile change plus docs; #1 will be closed as superseded once this merges.
 
 ## Deviations
 None.
