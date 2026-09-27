@@ -11,6 +11,7 @@
 - [x] Release build
 - [x] Successfully reading battery levels from MX Keys and MX Master 3
 - [x] 27 Sep 2026: README fixes (clone URL, Homebrew install via omar16100/tap, removed unbacked claims), docs/index.md, docs/c4model.md, macOS CI (build + test). Plan: docs/27092026_readme_ci_plan.md
+- [x] 27 Sep 2026: `bytes` 1.11.0 to 1.12.1 in `Cargo.lock` (Dependabot alert 1, GHSA-434x-w66g-qw3r). Plan: docs/27092026_security_deps_plan.md
 
 ## How It Works
 - Default mode: Uses Swift/CoreBluetooth to query BLE Battery Service (0x180F)
